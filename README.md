@@ -1,5 +1,4 @@
 # Title :-LAZAREV
-
 This is a Animated website.This website are fully responsive website.
 
 ## Tech
