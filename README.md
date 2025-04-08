@@ -11,5 +11,5 @@ Gsap using for better animtion.
 
 #Feature
 Fully responsive website
-Interactive UI design.
+Interactive UI design..
 Link:- https://gorgeous-vacherin-f3f39b.netlify.app/
