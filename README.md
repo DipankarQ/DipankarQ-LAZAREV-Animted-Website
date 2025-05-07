@@ -10,5 +10,5 @@ CDN Js (cdnjs is a free, open-source content delivery network (CDN) that hosts J
 Gsap using for better animtion
 #Feature
 Fully responsive website
-Interactive UI design..
+Interactive UI design...
 Link:- https://gorgeous-vacherin-f3f39b.netlify.app/
