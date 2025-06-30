@@ -9,6 +9,6 @@ Locomotive Js (Is a JavaScript library that creates smooth scrolling animations 
 CDN Js (cdnjs is a free, open-source content delivery network (CDN) that hosts JavaScript and CSS libraries)
 Gsap using for better animtion
 #Feature
-Fully responsive website
+Fully responsive website.
 Interactive UI design....
 Link:- https://gorgeous-vacherin-f3f39b.netlify.app/
